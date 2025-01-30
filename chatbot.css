@@ -7,7 +7,7 @@
       align-items: center;
       cursor: pointer;
       z-index: 1000;
-      animation: bounce 2s infinite;
+      animation: bounce 1.5s infinite;
     }
     .chatbot-icon {
       width: 60px;
