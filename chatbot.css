@@ -49,7 +49,7 @@
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       display: none;
-      overflow: auto;
+      overflow: none;
       border: 1px solid #ccc;
       animation: slideIn 0.5s ease-in-out;
     }
